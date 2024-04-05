@@ -1,0 +1,18 @@
+.menu-tree-container {
+    min-height: 100vh;
+    width: 350px;
+    background-color: navy;
+}
+
+.menu-item {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    cursor: pointer;
+    color: white;
+}
+
+.menu-list {
+    list-style: none;
+    margin: 0;
+}
